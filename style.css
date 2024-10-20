@@ -13,7 +13,7 @@
 body{
 display: flex;
 justify-content: center;
-margin: 250px;
+margin-top: 200px;
 background-color:  hsl(0, 0%, 95%);
 }
 
